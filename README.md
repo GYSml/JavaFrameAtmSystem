@@ -1,2 +1,2 @@
-# JavaFrameAtmSystem
-模仿ATM自动存取款系统
+## JavaFrameAtmSystem
+这是使用java中JFrame来模仿ATM自动存取款系统
